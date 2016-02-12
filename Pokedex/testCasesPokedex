@@ -1,0 +1,9 @@
+Test Cases:
+- User should be able to search for pokemon by name
+- User should be able to search by pokemon by type
+- User should be able to access a list of their favorite pokemon
+- user should be able to add a pokemon to their favorites
+- User should be able to remove a pokemon from their list of favorites
+- User should be able to access a pokemon info page
+- User should be able to view a picture of the pokemon they selected
+- User should be able to see a pokemon's type, HP, and a short description on the info page
